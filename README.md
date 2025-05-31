@@ -1,17 +1,19 @@
+## Team Members  
+**DeTeam-8**
 
-## Membros
-# DeTeam-8 
+- Luiz Renan  
+- Patrick Simões  
+- Valdison Brito  
+- Matheus Lima  
 
+---
 
-- Luiz Renan
-- Patrick Simões
-- Valdison Brito
-- Matheus Lima
+## Repositories with Documentation and Project Presentation: *EventoFacil*
 
-#### Repositórios com documentações e apresentação do projeto *EventoFacil*
+This project was developed for a hackathon.
 
-## Backend
-- [Backend](https://github.com/ProgramadoresSemPatria/DeTeam-8/tree/main/backend)
+### Backend  
+- [Backend Repository](https://github.com/luiznwz/eventeasy/tree/main/backend)
 
-## Front
-- [Frontend](https://github.com/ProgramadoresSemPatria/DeTeam-8/tree/main/frontend)
+### Frontend  
+- [Frontend Repository](https://github.com/luiznwz/eventeasy/tree/main/frontend)
