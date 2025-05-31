@@ -8,7 +8,7 @@
 
 ---
 
-## Repositories with Documentation and Project Presentation: *EventoFacil*
+## Repositories with Documentation and Project Presentation: *EventEasy*
 
 This project was developed for a hackathon.
 
